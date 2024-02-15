@@ -1,8 +1,7 @@
 ### Hello 👋 This is Gustavo
+<!--
 ![favicon](https://github.com/resendegu/resendegu/assets/62570230/e32b6ffe-a3b8-4d10-bff7-8c597d6ff029)
 
-
-<!--
 **resendegu/resendegu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
