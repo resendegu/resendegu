@@ -6,7 +6,7 @@
 const currentInfo = () => {
     let name = 'Gustavo Resende';
     let role = 'DevOps';
-    const funFact = 'Static Shock⚡ is my favorite and the best super hero 😄';
+    const funFact = 'Static Shock⚡ the best super hero ever😄';
 
     let company = 'Cubos DevOps';
 }
