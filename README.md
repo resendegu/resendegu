@@ -4,7 +4,7 @@
 
 ```js
 const currentInfo = () => {
-    let name = 'Gustavo Resende';
+    const name = 'Gustavo Resende';
     let role = 'DevOps';
     const funFact = 'Static Shock⚡ the best super hero ever😄';
 
