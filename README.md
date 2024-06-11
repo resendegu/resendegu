@@ -9,6 +9,7 @@ const currentInfo = () => {
     const funFact = 'Static Shock⚡ the best super hero ever😄';
 
     let company = 'Cubos DevOps';
+    let location = 'Salvador, Bahia, BR (Working from home)';
 }
 ```
 
