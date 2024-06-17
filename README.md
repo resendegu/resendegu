@@ -26,19 +26,6 @@ const currentInfo = () => {
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 
-
-## **GitHub Stats**
-
-<a href="https://github.com/resendegu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resendegu&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/resendegu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=resendegu&show_icons=true&theme=dracula&line_height=27" alt="**Gustavo Resende** github stats"/>
-</a>
-
-![pv](https://pageview.vercel.app/?github_user=resendegu)
-
 [website]: https://resende.app/
 [instagram]: https://www.instagram.com/resendegu/
 [linkedin]: https://www.linkedin.com/in/resendegu/
