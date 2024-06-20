@@ -3,12 +3,12 @@
 <img align="right" width="300" src="https://media1.tenor.com/m/HpV9ORrCHSUAAAAC/super-shock-cartoon.gif" />
 
 ```js
+// Que legal que você tá aqui!
+// It's awesome to have you here!
 const currentInfo = () => {
-    const name = 'Gustavo Resende';
-    let role = 'DevOps';
-    const funFact = 'Static Shock⚡ the best super hero ever😄';
+    const funFact = 'Static Shock⚡ the best super hero ever!';
 
-    let company = 'Cubos DevOps';
+    let roleAndCompany = 'DevOps @ Cubos DevOps';
     let location = 'Salvador, Bahia, BR (Working from home)';
 }
 ```
