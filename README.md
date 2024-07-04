@@ -1,4 +1,4 @@
-## About me
+## Hello!
 
 <img align="right" width="300" src="https://media1.tenor.com/m/HpV9ORrCHSUAAAAC/super-shock-cartoon.gif" />
 
@@ -13,13 +13,13 @@ const currentInfo = () => {
 }
 ```
 
-[website]: https://resende.app/
-[instagram]: https://www.instagram.com/resendegu/
-[linkedin]: https://www.linkedin.com/in/resendegu/
+[Website]: https://resende.app/
+[Instagram]: https://www.instagram.com/resendegu/
+[Linkedin]: https://www.linkedin.com/in/resendegu/
 <br>
 
 #### Social Networks
 
-🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🏡 [Website][Website] **|** 
+📷 [Instagram][Instagram] **|** 
+👔 [Linkedin][Linkedin]
