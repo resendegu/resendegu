@@ -1,6 +1,6 @@
 ## Hello!
 
-<img align="right" width="300" src="https://media1.tenor.com/m/HpV9ORrCHSUAAAAC/super-shock-cartoon.gif" />
+<img align="right" width="300" src="https://i.imgur.com/6s0o2nq.gif" />
 
 ```js
 // Que legal que você tá aqui!
