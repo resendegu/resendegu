@@ -14,13 +14,14 @@ const currentInfo = () => {
 ```
 
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-red)
 <br>
 
-[Website]: https://resende.app/
+[Site - resende.app]: https://resende.app/
 [Instagram]: https://www.instagram.com/resendegu/
 [Linkedin]: https://www.linkedin.com/in/resendegu/
 <br>
 #### Social Networks
-🏡 [Website][Website] **|** 
+🏡 [Site - resende.app][Site - resende.app] **|** 
 📷 [Instagram][Instagram] **|** 
 👔 [Linkedin][Linkedin]
