@@ -13,7 +13,7 @@ const currentInfo = () => {
 }
 ```
 
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange)
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-blue)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-red)
 <br>
 
